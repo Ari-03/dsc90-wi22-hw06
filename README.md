@@ -6,9 +6,9 @@ For this Question we showed the map of death overlayed with the number of deaths
 
 ## Question 2
 For this question we created a 3D interactive model of Father's, Mother's, and Child's Heights
-<iframe src='../galton-scatter.html' width=800 height=600 frameBorder=0></iframe>
+<iframe src='../galton-fig.html' width=800 height=600 frameBorder=0></iframe>
 
 ## Question 3
 For this question we created the population choropleth of France in 2013
-<iframe src='../france-pop.html' width=800 height=600 frameBorder=0></iframe>
+<iframe src='../france-fig.html' width=800 height=600 frameBorder=0></iframe>
 
